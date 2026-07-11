@@ -1,4 +1,4 @@
-`import streamlit as st
+import streamlit as st
 
 from utils.styling import inject_base_css, top_nav
 from views import beranda, prediksi_manual, upload_massal, dashboard, tentang
