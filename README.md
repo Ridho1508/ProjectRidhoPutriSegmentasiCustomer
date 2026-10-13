@@ -208,5 +208,4 @@ Detail lengkap tentang proyek ini juga bisa dilihat langsung di menu
 
 ---
 
-Selamat mencoba! 🚀 Kalau mau menambah fitur (misalnya export ke PDF, autentikasi
-login, atau riwayat permanen ke database), tinggal lanjut dari struktur yang sudah ada.
+Selamat mencoba! 
